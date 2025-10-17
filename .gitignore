@@ -1,0 +1,13 @@
+﻿.venv/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+dataset/raw/
+dataset/frames/
+dataset/labels/
+runs/
+models/
+.vscode/
+.dvc/cache/
+.dvc/tmp/
